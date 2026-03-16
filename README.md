@@ -1,7 +1,7 @@
 # 🍌 Banana Game – Distributed Service Architecture Project
 
 A Python based educational game developed using Tkinter, SQLite, and an external REST API, designed to demonstrate event-driven architecture, distributed services, and software design principles.
-
+![Screenshot of the main interface](https://github.com/Dhananjaya-Dilshan/puzzle-games/blob/f671be46f64191529621d02b843eb1a0702afb21/0303.png)
 This project was developed as part of the CIS045-3 Distributed Service Architectures module.
 ## 🛠️ Tech Stack
 
